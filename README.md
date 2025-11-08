@@ -11,3 +11,4 @@ https://sketchfab.com/3d-models/ceiling-9169360cd0814a9982977d6a0fab1311
 https://sketchfab.com/3d-models/wooden-wall-lamp-43423b315d914f44bf03f34fd91c268b
 https://sketchfab.com/3d-models/free-hard-surface-kit-9b2beeb3d9a341f6ac69f45a3d73a13d#download
 https://sketchfab.com/3d-models/scifi-tank-doodad-46f923cb22474a75ae22c6aa30f3077b
+https://sketchfab.com/3d-models/small-crate-aaa-military-59faff9b542b437fab0abf82b2b1cf72
