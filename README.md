@@ -15,3 +15,4 @@ https://sketchfab.com/3d-models/small-crate-aaa-military-59faff9b542b437fab0abf8
 https://sketchfab.com/3d-models/free-sci-fi-panel-003-public-domain-cc0-f6b278825c954de58c15780d356bd693
 https://sketchfab.com/3d-models/free-scifi-panel-001-public-domain-cc0-189ed1b176f04852a8126961601f95c8
 https://sketchfab.com/3d-models/scifi-panel-d93944548ef64adba8e0e6ebdfd75136
+https://sketchfab.com/3d-models/ship-windlass-winch-aa074460bc404934ac5947300c34d536#download
