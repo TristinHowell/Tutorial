@@ -16,3 +16,16 @@ https://sketchfab.com/3d-models/free-sci-fi-panel-003-public-domain-cc0-f6b27882
 https://sketchfab.com/3d-models/free-scifi-panel-001-public-domain-cc0-189ed1b176f04852a8126961601f95c8
 https://sketchfab.com/3d-models/scifi-panel-d93944548ef64adba8e0e6ebdfd75136
 https://sketchfab.com/3d-models/ship-windlass-winch-aa074460bc404934ac5947300c34d536#download
+https://sketchfab.com/3d-models/oil-barrel-ec37cc2a844f4f0ca0873d85a8b3b976#download
+https://sketchfab.com/3d-models/lamp-22-9200262ca1cd47b4bb139c8c150b4231#download
+https://sketchfab.com/3d-models/sci-fi-pod-65c0736771024f1da2bb16dd12cd21da#download
+https://sketchfab.com/3d-models/millers-falls-hand-drill-d0e951ddc3664590a30ed0341261dd77#download
+https://sketchfab.com/3d-models/psykit-9a96d56be82f480fb5eefe99a5dea271#download
+https://sketchfab.com/3d-models/antique-light-switches-type-c-a3ad944d3f324e6b95182071f190848b#download
+https://sketchfab.com/3d-models/gas-lit-883a69a3c70d40faac26dfa6272c45c9#download
+https://sketchfab.com/3d-models/seat-10c2c90c125f46eb8243e67ef4eda8a5#download
+https://sketchfab.com/3d-models/scifi-tablet-a12fe1fe9a1e45d785cffad71a248f03
+https://sketchfab.com/3d-models/electrical-breaker-panel-box-lp-model-4b12b4e00fc14f95beb55d7016eaf28d#download
+https://sketchfab.com/3d-models/scifi-terminal-2-b03bde63cb4a42d29aff418888a38297#download
+https://sketchfab.com/3d-models/scifi-windows-0ebb0cc000c74324a0a0f622fcb3bc39
+https://sketchfab.com/3d-models/star-wars-door-control-panel-no-textures-84ff961f3afc477291fc2744a2f9f3f8#download
